@@ -13,19 +13,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/my-app.git
+    git clone https://github.com/tikoam/reports-app.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd my-app
+    cd reports-app
     ```
 
 3. **Install dependencies:**
     ```bash
     npm install
     ```
+4. **Run application:**
+    ```bash
+    npm start
+    ```
+    Runs the app in the development mode.
+    Open http://localhost:3000 to view it in the browser(Google Chrome).
 
+    The page will reload if you make edits.
 ## Folder Structure
 
 ```plaintext
